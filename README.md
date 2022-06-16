@@ -2,7 +2,7 @@
 
 
 - 👀 Atualmente não trabalho como Dev.
-- 🌱 Estou iniciando meus estudos em C# e JacaScript
+- 🌱 Estou iniciando meus estudos em C# e JavaScript
 <div>
   <a href="https://github.com/guipariz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
